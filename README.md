@@ -27,7 +27,7 @@ A console-based card game implemented in Java, simulating the classic game of Pa
    ```
 3. Run the game:
    ```bash
-   java -jar target/PatienceGameV3-1.0-SNAPSHOT.jar
+   java -jar PatienceGameV3-1.0-SNAPSHOT.jar
    ```
 
 ### Build from Source
