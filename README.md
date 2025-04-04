@@ -23,7 +23,7 @@ A console-based card game implemented in Java, simulating the classic game of Pa
 1. Download or clone the repository.
 2. Navigate to the project folder:
    ```bash
-   cd PatienceGameV3
+   cd PatienceGame
    ```
 3. Run the game:
    ```bash
